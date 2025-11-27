@@ -3,9 +3,6 @@
 
 # ========== 核心关键词组（监控 CXO 投资） ==========
 CXO
-CEO
-CFO
-COO
 CTO
 CMO
 CHO
